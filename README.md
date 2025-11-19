@@ -1,10 +1,9 @@
-# 🎯 Smart Object Counter
+# Smart Object Counter - Fusion Focus (Hackathon)
 
 **Automated Object Counting using Computer Vision**
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)](https://opencv.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > A hackathon project demonstrating practical computer vision for automated object counting using OpenCV's contour detection and color-based segmentation.
 

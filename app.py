@@ -7,7 +7,7 @@ import io
 import tempfile
 import os
 
-st.title("Smart Object Counter")
+st.title("Smart Object Counter - Fusion Focus (Hackathon Project)")
 
 st.markdown("""
 Upload an image to count objects using computer vision.
@@ -66,4 +66,4 @@ if uploaded_file is not None:
         os.unlink(tmp_path)
 
 st.markdown("---")
-st.markdown("Built with Streamlit and OpenCV")
+st.markdown("Built with Streamlit and OpenCV.")
