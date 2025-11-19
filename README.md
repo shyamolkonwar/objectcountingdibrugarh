@@ -175,7 +175,6 @@ smart-object-counter/
 ├── object_counter.py          # Main script with counting logic
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # This file
-├── documentation.pdf          # Comprehensive technical documentation
 │
 ├── samples/                   # Sample input images
 │   ├── apples.jpg
